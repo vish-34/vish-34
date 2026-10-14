@@ -9,9 +9,9 @@ Building high-concurrency web systems, AI infrastructure, and production softwar
 
 ### What I'm Building & Shipping
 
-* **[LanceHub](https://lancehub.dev)** — Production engineering partner for AI-built software. We harden Supabase Postgres RLS, rewire Stripe webhook pipelines, and deploy fragile prototypes (Lovable, Bolt, Cursor) into production in 7-day sprints.
-* **Kin(https://kin.camera)** — AI-powered conversational memory platform that preserves personal stories, voices, and experiences, turning memories into living conversations.
-* **TRCAC EduVeda(https://trcaceduvedha.in/)** — Full-stack campus learning management system architected with MERN & AWS, officially deployed and serving 5,000+ active students and faculty.
+* **[LanceHub](https://lancehubdev.vercel.app/)** — Production engineering partner for AI-built software. We harden Supabase Postgres RLS, rewire Stripe webhook pipelines, and deploy fragile prototypes (Lovable, Bolt, Cursor) into production in 7-day sprints.
+* **[Kin](https://kin.camera)** — AI-powered conversational memory platform that preserves personal stories, voices, and experiences, turning memories into living conversations.
+* **[TRCAC EduVeda](https://trcaceduvedha.in/)** — Full-stack campus learning management system architected with MERN & AWS, officially deployed and serving 5,000+ active students and faculty.
 
 ---
 
@@ -46,4 +46,4 @@ Building high-concurrency web systems, AI infrastructure, and production softwar
 * **Personal X:** [@vish34borana](https://x.com/vish34borana)
 * **Agency X:** [@lancehubdev](https://x.com/lancehubdev)
 * **Email:** vishal23borana@gmail.com
-* **Agency:** [lancehub.dev](https://lancehub.dev)
+* **Agency:** [lancehub.dev](https://lancehubdev.vercel.app/)
