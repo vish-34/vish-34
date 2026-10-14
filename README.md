@@ -32,6 +32,14 @@ Building high-concurrency web systems, AI infrastructure, and production softwar
 * **Mumbai Hacks 2025 (PulseIQ):** Built real-time crash triage and biometric monitoring engine integrated with the OpenAI API and Dockerized microservices.
 
 ---
+### 🔒 Selected Production Systems (Private NDA / Client Repos)
+
+* **Enterprise Modernization (JSW Paints):** Led the frontend migration of 20+ core enterprise UI modules from legacy ASP.NET MVC to high-performance React.js within a 23-engineer team at 3AT Consultancy.
+* **TRCAC EduVeda (Campus LMS):** Production MERN-stack platform deployed on AWS infrastructure, officially powering operations for 5,000+ active university students and faculty.
+* **PulseIQ (Mumbai Hacks 2025):** High-throughput emergency health monitoring engine integrating OpenAI LLM APIs, biometric visualization, and Dockerized microservices.
+
+*(Source code for the above systems is maintained under private client/institutional access. Repository contribution activity is verified via public commit history above).*
+---
 
 ### Contact
 * **Direct Line:** +91 84540 30044
